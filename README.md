@@ -14,7 +14,7 @@ alternative lengthening mechanisms · comparative genomics
 **Selected publications**
 - Functional telomerase restored in beetles — *Genome Biology and Evolution* 2026
 - *Leishmania* telomeres at high resolution: Ku80, TERT, ALT — *BMC Genomics* 2025
-- Chromosome arm–specific telomere length setting in Arabidopsis — *The Plant Journal* 2025
+- Chromosome arm–specific telomere length setting in Arabidopsis 
 - Telomerase RNA structural dynamics in *Physcomitrium patens* — *JMB* 2024
 
 **What I work with:** Python · Bash · R · Snakemake · ChIP-seq · ATAC-seq · RNA-seq · Oxford Nanopore · PacBio · HPC (PBS/Metacentrum)
