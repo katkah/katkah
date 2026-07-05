@@ -1,19 +1,10 @@
 ## I'm Kateřina
 
-I study ribosomal DNA and telomeres — how they're maintained, how their length is regulated,
-and how telomerase works at the RNA level. My work spans plants, protists,
-and beetles, which means I spend a lot of time building pipelines to handle
-whatever sequencing data the organism demands.
-
-**Research interests:** telomere length regulation · telomerase RNA structure ·
-alternative lengthening mechanisms · comparative genomics
+I am intrested in chromatin chaperones, ribosomal DNA, telomeres and how they are all orchestrated in biological processess. I work across organisms and so far my work spans plants, protists, beetles and nematodes. I like building pipelines to handle
+whatever sequencing data the organism demands. I am a big fan of reproducible research.
 
 **Organisms I've worked with:** *Arabidopsis thaliana* · *Physcomitrium patens* ·
 *Leishmania mexicana* · Coleoptera · *Caenorhabditis elegans*
-
-**Selected publications**
-- Functional telomerase restored in beetles — *Genome Biology and Evolution* 2026
-- Telomerase RNA structural dynamics in *Physcomitrium patens* — *JMB* 2024
 
 **What I work with:** Python · Bash · R · Snakemake · ChIP-seq · ATAC-seq · RNA-seq · Oxford Nanopore · PacBio · HPC (PBS/Metacentrum)
 
